@@ -65,13 +65,13 @@ Each species folder contains:
 <details>
 <summary><strong>📸 View image samples</strong></summary>
 <p align="center">
-  <img src="Images/Example01-GG_068_02.jpg" width="305">
-  <img src="Images/Example02-LN_046_01.jpg" width="400">
+  <img src="images/Example01-GG_068_02.jpg" width="300">
+  <img src="images/Example02-LN_046_01.jpg" width="300">
 </p>
 <p align="center">
-  <img src="Images/Example03-MM_069_01.jpg" width="300">
-  <img src="Images/Example04-MM_063_01.jpg" width="300">
-  <img src="Images/Example05-SC_447_01.jpg" width="400"
+  <img src="images/Example03-MM_069_01.jpg" width="300">
+  <img src="images/Example04-MM_063_01.jpg" width="300">
+  <img src="images/Example05-SC_447_01.jpg" width="300"
 </p>
 
 </details>
